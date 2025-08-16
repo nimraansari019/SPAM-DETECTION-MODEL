@@ -1,6 +1,3 @@
-# SPAM-DETECTION-MODEL
-
-
 
 # Spam Email Detection with Machine Learning
 
