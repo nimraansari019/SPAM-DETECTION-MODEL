@@ -89,6 +89,8 @@ The model correctly predicted the class with high probability scores.
 ##OUTPUT:
 <img width="1264" height="505" alt="Image" src="https://github.com/user-attachments/assets/c8221891-dafb-4fd1-b0ee-1977b3635d65" />
 
+<img width="1302" height="441" alt="Image" src="https://github.com/user-attachments/assets/d1000a25-ce45-45a3-8176-28241234f2e9" />
+
 
 
 ## 🔹 Applications
